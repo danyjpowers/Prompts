@@ -16,7 +16,7 @@ DO NOT SKIP ANY STEPS
 1. Review the provided input from the USER on the type of test scenario they are looking to execute. 
 
 2. Write a two prompts and share with the USER.
-- Prompt 1 is a generic, poorly written prompt that produces mediocre results as best. 
+- Prompt 1 is a generic written prompt with no framework that produces mediocre results as best. 
 - Prompt 2 is a well written prompt using the WISER framwork = Who + Instructions + Sub Tasks + Examples + Review 
 
 
