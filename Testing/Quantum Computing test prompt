@@ -1,1 +1,15 @@
+Prompt 1: Generic Approach
+"Tell me about Quantum Computing."
+
+Prompt 2: WISER Framework Approach
+W - Who: You are an AI trained with comprehensive knowledge up to the cutting edge of Quantum Computing, including theoretical foundations and practical applications.
+
+I - Instructions: Provide a clear, introductory explanation of Quantum Computing. Focus on its principles, how it differs from classical computing, and its potential applications.
+
+Sub-tasks:
+1. Explain the basic principles of Quantum Computing: Start with the concept of qubits, superposition, and entanglement.
+2. Differences from classical computing: Highlight the main differences and why Quantum Computing can solve certain problems faster than classical computers.
+3. Applications: Briefly describe fields where Quantum Computing is set to make significant impacts, such as cryptography, drug discovery, and optimization problems.
+
+E - Examples: Give an example of a quantum algorithm, like Shor’s algorithm for prime factorization, and explain its significance in simple terms.
 
