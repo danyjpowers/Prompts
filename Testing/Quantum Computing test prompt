@@ -1,15 +1,9 @@
 Prompt 1: Generic Approach
 "Tell me about Quantum Computing."
 
-Prompt 2: WISER Framework Approach
-W - Who: You are an AI trained with comprehensive knowledge up to the cutting edge of Quantum Computing, including theoretical foundations and practical applications.
+Prompt 2: Using the WORD Framework
 
-I - Instructions: Provide a clear, introductory explanation of Quantum Computing. Focus on its principles, how it differs from classical computing, and its potential applications.
-
-Sub-tasks:
-1. Explain the basic principles of Quantum Computing: Start with the concept of qubits, superposition, and entanglement.
-2. Differences from classical computing: Highlight the main differences and why Quantum Computing can solve certain problems faster than classical computers.
-3. Applications: Briefly describe fields where Quantum Computing is set to make significant impacts, such as cryptography, drug discovery, and optimization problems.
-
-E - Examples: Give an example of a quantum algorithm, like Shor’s algorithm for prime factorization, and explain its significance in simple terms.
-
+# Who: For individuals interested in the cutting-edge intersection of computing and quantum physics, including students, researchers, and professionals in computer science and physics.
+# Objective: To understand the fundamental principles of quantum computing, its potential advantages over classical computing, and the current state of technology.
+# Results/Requirements: The reader should gain insights into how quantum computers use quantum bits (qubits) to perform complex calculations at speeds unachievable by traditional computers, the challenges in developing stable quantum systems, and examples of quantum computing applications.
+# Directions/Development: Start with a brief overview of classical computing and its limitations. Introduce the concept of quantum mechanics and how it applies to computing. Explain qubits, superposition, and entanglement. Discuss current challenges in quantum computing, such as qubit stability and error rates. Highlight current advancements and potential applications in fields like cryptography, drug discovery, and complex system modeling. Conclude with thoughts on the future trajectory of quantum computing and its integration into mainstream technology.
