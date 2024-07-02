@@ -1,0 +1,11 @@
+Open with a sentence that describes the overall task.
+
+Explain the role and skills involved in accomplishing this task.
+
+Return to the task at hand but this time give some step-by-step instructions.
+
+Give constraints and disallowed actions.
+
+Motivate the AI with by talking about why this task is important and offer a reward if it is done well.
+
+End with the desired output format. 
